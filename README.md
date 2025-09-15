@@ -12,11 +12,11 @@
 * Merge your newly created branch with the main branch.
 * Push your main branch to the remote repository.
 ### Task 4:
-* Fork this GitHub repository: [Docusaurus](https://github.com/Yash114Bansal/docusaurus)
+* Fork this GitHub repository: [Docusaurus](https://github.com/goyalshivansh2805/docusaurus-2025)
 * Add a "**your_name.md**" file inside the *docs* folder and add your details about yourself.
 * Add your name in the navbar of the website.
 * Commit your changes and push it to your own personal repository.
-* Create a pull request on the [Docusaurus](https://github.com/Yash114Bansal/docusaurus) website.
+* Create a pull request on the [Docusaurus](https://github.com/goyalshivansh2805/docusaurus-2025) website.
 * Add your personal repository link as a submodule inside this repository.
 * Commit and push the changes to the remote repository.
 ### Task 5:
