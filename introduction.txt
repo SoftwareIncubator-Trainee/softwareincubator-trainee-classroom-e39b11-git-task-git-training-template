@@ -1,4 +1,4 @@
 Name: Vedanshi Prajapati
 Branch: IT
 Domain: Designing
-Skills: C, Java, Python, HTML and CSS
+Skills: C, Java, Python, HTML, CSS
